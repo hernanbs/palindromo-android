@@ -15,8 +15,4 @@ public class Palindromo {
     public String getConteudo() {
         return conteudo.toLowerCase();
     }
-
-//    public void setConteudo(String conteudo) {
-//        this.conteudo = conteudo;
-//    }
 }
