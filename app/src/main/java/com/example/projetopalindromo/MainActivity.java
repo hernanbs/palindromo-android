@@ -31,9 +31,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         PalindromoKotlin palindromo = new PalindromoKotlin(etPalindromo.getText().toString());
         String resposta;
         if (palindromo.isPalindromo()) {
-            resposta = "É um palindromo.";
+            resposta = "\n\nÉ um palindromo.";
         } else {
-            resposta = "Não é um palindromo.";
+            resposta = "\n\nNão é um palindromo.";
         }
         resposta = palindromo.getConteudo() + " " + resposta;
         tvResposta.setText(resposta);

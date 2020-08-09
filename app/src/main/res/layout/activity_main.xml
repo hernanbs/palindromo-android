@@ -21,7 +21,7 @@
         android:layout_marginBottom="24dp"
         android:layout_marginTop="32dp"
         android:gravity="center"
-        android:text="É um palindromo ? (versão beta, somente palavras)"
+        android:text="É um palindromo ?"
         android:textColor="#ddd"
         android:textSize="24sp" />
 
