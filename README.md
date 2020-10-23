@@ -24,5 +24,6 @@ Um **palíndromo** é uma palavra, frase ou qualquer outra sequência de unidade
 ##### Android
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Landing Page" title="Landing Page" src="./images/Screenshot_20200809-191022_Palndromo.jpg" width="400px">
+  <img alt="Landing Page" title="Landing Page" src="./images/Screenshot_20200809-191022_Palndromo.jpg" width="300px">
+  <img alt="Error Message" title="Error Message" src="./images/Palndromo_fail.jpg" width="300px">
 </p>
